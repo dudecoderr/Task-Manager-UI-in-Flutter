@@ -14,6 +14,9 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
-<a href="#screenshots">
-<video src="assets/video/video.mp4" >
-</a>&nbsp;&nbsp;
+
++ video
+[![Demo](https://github.com/dudecoderr/New-Fashion-E-Commerce-flutter-app-UI/blob/main/assets/Boss_logo.png)](https://raw.githubusercontent.com/dudecoderr/Task-Manager-UI-in-Flutter/master/assets/video/video.mp4)
++ video
+<video src='https://raw.githubusercontent.com/dudecoderr/Task-Manager-UI-in-Flutter/master/assets/video/video.mp4' width=180/>
+
