@@ -18,3 +18,6 @@ samples, guidance on mobile development, and a full API reference.
 
 + video
   <video src='https://raw.githubusercontent.com/dudecoderr/Task-Manager-UI-in-Flutter/master/assets/video/video.mp4' width=180/>
+  <a href="#screenshots">
+  <img src="https://raw.githubusercontent.com/dudecoderr/Task-Manager-UI-in-Flutter/master/assets/images/s1.jpg" width="400px">
+  </a>&nbsp;&nbsp;
